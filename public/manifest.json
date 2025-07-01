@@ -1,0 +1,22 @@
+{
+  "name": "Luis Rodríguez | Fullstack Developer",
+  "short_name": "LuisDev",
+  "description": "My personal bio, portfolio, blog, and contact links.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/me.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/me.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}

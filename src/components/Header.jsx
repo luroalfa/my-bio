@@ -83,7 +83,7 @@ function Header() {
         </DevTag>
       </ImageWrapper>
       <Name>Luis Rodríguez</Name>
-      <Subtitle>Fullstack Developer</Subtitle>
+      <Subtitle>Software Engineer</Subtitle>
     </Wrapper>
   );
 }

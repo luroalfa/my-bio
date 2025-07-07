@@ -12,7 +12,7 @@ import { FaWhatsapp } from "react-icons/fa";
 const links = [
   {
     label: "WhatsApp",
-    desc: "Contáctame directamente por mensaje",
+    desc: "Feel free to message me directly",
     href: "https://wa.me/50670031154",
     icon: <FaWhatsapp />,
   },

@@ -41,12 +41,12 @@ const links = [
     href: "/LuisRodriguezCV.pdf",
     icon: <FaFileDownload />,
   },
-  // {
-  //   label: 'Web Dev Services',
-  //   desc: 'Sitio web de mis servicios como desarrollador',
-  //   href: 'https://tusitioweb.com',
-  //   icon: <FaLaptopCode />,
-  // },
+  {
+    label: 'Web Dev Services',
+    desc: 'Sitio web de mis servicios como desarrollador',
+    href: 'https://digitaldevlab.net/',
+    icon: <FaLaptopCode />,
+  },
   // {
   //   label: "Portafolio",
   //   desc: "See my featured work and case studies",

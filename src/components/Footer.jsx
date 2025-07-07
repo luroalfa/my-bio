@@ -9,7 +9,7 @@ const Wrapper = styled.footer`
 
 function Footer() {
   return (
-    <Wrapper>© 2025 Luis Rodríguez. Todos los derechos reservados.</Wrapper>
+    <Wrapper>© 2025 Luis Rodríguez. All rights reserved.</Wrapper>
   );
 }
 

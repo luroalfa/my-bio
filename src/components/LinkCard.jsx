@@ -36,17 +36,17 @@ const links = [
     internal: true,
   },
   {
-    label: "Download CV",
-    desc: "Get my resume in PDF format",
-    href: "/LuisRodriguezCV.pdf",
-    icon: <FaFileDownload />,
-  },
-  {
     label: 'Web Dev Services',
     desc: 'My developer services website',
     href: 'https://digitaldevlab.net/',
     icon: <FaLaptopCode />,
   },
+  {
+    label: "Download CV",
+    desc: "Get my resume in PDF format",
+    href: "/LuisRodriguezCV.pdf",
+    icon: <FaFileDownload />,
+  }
   // {
   //   label: "Portafolio",
   //   desc: "See my featured work and case studies",

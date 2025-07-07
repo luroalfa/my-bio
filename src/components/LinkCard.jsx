@@ -43,7 +43,7 @@ const links = [
   },
   {
     label: 'Web Dev Services',
-    desc: 'Sitio web de mis servicios como desarrollador',
+    desc: 'My developer services website',
     href: 'https://digitaldevlab.net/',
     icon: <FaLaptopCode />,
   },
